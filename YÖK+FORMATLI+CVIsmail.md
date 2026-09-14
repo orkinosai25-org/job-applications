@@ -81,5 +81,5 @@
 - `orkinosai25-org/supreme-modeltx` → `docs/pitch/project-ebru-investor-brief-tr.md`
 - `orkinosai25-org/supreme-modeltx` → `docs/pitch/project-ebru-pitch-deck-tr.md`
 - `orkinosai25-org/supreme-modeltx` → `docs/website/overview.md`
-- Kullanıcının referans verdiği kamuya açık profiller: `www.orkinosai.com`,
+- Kullanıcının referans verdiği kamuya açık profiller: `https://www.orkinosai.com/`,
   `https://www.linkedin.com/in/ismaildurgut/`
