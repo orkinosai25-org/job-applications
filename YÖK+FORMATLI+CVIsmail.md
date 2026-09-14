@@ -76,8 +76,13 @@
 ## Kaynaklar
 
 - Dış kaynak depo revizyonu: `orkinosai25-org/supreme-modeltx@9876eb69bc97db154348337229e27b753d48b5d6`
-- `https://github.com/orkinosai25-org/supreme-modeltx/blob/9876eb69bc97db154348337229e27b753d48b5d6/nvidia-inception-deck/deck.md`
-- `https://github.com/orkinosai25-org/supreme-modeltx/blob/9876eb69bc97db154348337229e27b753d48b5d6/nvidia-inception-deck/founder-talking-points.md`
-- `https://github.com/orkinosai25-org/supreme-modeltx/blob/9876eb69bc97db154348337229e27b753d48b5d6/docs/pitch/project-ebru-investor-brief-tr.md`
-- `https://github.com/orkinosai25-org/supreme-modeltx/blob/9876eb69bc97db154348337229e27b753d48b5d6/docs/pitch/project-ebru-pitch-deck-tr.md`
-- `https://github.com/orkinosai25-org/supreme-modeltx/blob/9876eb69bc97db154348337229e27b753d48b5d6/docs/website/overview.md`
+- Orkinos AI'nin aşamalı şirket anlatısı, Ebru/Supreme ModelTX ilişkisi:
+  `https://github.com/orkinosai25-org/supreme-modeltx/blob/9876eb69bc97db154348337229e27b753d48b5d6/nvidia-inception-deck/deck.md`
+- Kurucu rolü için temkinli ifade biçimi ve olgunluk sınırları:
+  `https://github.com/orkinosai25-org/supreme-modeltx/blob/9876eb69bc97db154348337229e27b753d48b5d6/nvidia-inception-deck/founder-talking-points.md`
+- Ebru'nun ürün/pazar doğrulama odağı ve fazlı yatırım anlatısı:
+  `https://github.com/orkinosai25-org/supreme-modeltx/blob/9876eb69bc97db154348337229e27b753d48b5d6/docs/pitch/project-ebru-investor-brief-tr.md`
+- Ebru'nun kullanım alanları ve Türkçe öncelikli konumlandırması:
+  `https://github.com/orkinosai25-org/supreme-modeltx/blob/9876eb69bc97db154348337229e27b753d48b5d6/docs/pitch/project-ebru-pitch-deck-tr.md`
+- Supreme ModelTX'in mevcut teknik kapsamı ve erken aşama çerçevesi:
+  `https://github.com/orkinosai25-org/supreme-modeltx/blob/9876eb69bc97db154348337229e27b753d48b5d6/docs/website/overview.md`
