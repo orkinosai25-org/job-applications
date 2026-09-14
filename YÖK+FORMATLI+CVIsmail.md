@@ -74,12 +74,8 @@
 
 ## Kaynaklar
 
-- İstanbul Arel Üniversitesi'ndeki önceki akademik görevin **Yardımcı Doçent / Doktor Öğretim
-  Üyesi** unvan görünürlüğüyle yansıtılması.
 - `orkinosai25-org/supreme-modeltx` → `nvidia-inception-deck/deck.md`
 - `orkinosai25-org/supreme-modeltx` → `nvidia-inception-deck/founder-talking-points.md`
 - `orkinosai25-org/supreme-modeltx` → `docs/pitch/project-ebru-investor-brief-tr.md`
 - `orkinosai25-org/supreme-modeltx` → `docs/pitch/project-ebru-pitch-deck-tr.md`
 - `orkinosai25-org/supreme-modeltx` → `docs/website/overview.md`
-- Kullanıcının referans verdiği kamuya açık profiller: `https://www.orkinosai.com/`,
-  `https://www.linkedin.com/in/ismaildurgut/`
