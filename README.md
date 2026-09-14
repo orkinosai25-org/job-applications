@@ -1,7 +1,7 @@
 # job-applications
 
 This repository now contains an editable markdown companion for the user's CV/application
-updates at `/home/runner/work/job-applications/job-applications/YÖK+FORMATLI+CVIsmail.md`.
+updates at `YÖK+FORMATLI+CVIsmail.md`.
 
 The originally requested binary source file `YÖK+FORMATLI+CVIsmail.docx` was not present in
 the repository or its `main` branch at the time of update, so the markdown file is prepared

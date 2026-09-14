@@ -74,8 +74,8 @@
 
 ## Kaynaklar
 
-- Kullanıcı talebi: İstanbul Arel Üniversitesi'ndeki görevin **Doktor Öğretim Üyesi / Yardımcı
-  Doçent** olarak görünür biçimde eklenmesi.
+- İstanbul Arel Üniversitesi'ndeki önceki akademik görevin **Yardımcı Doçent / Doktor Öğretim
+  Üyesi** unvan görünürlüğüyle yansıtılması.
 - `orkinosai25-org/supreme-modeltx` → `nvidia-inception-deck/deck.md`
 - `orkinosai25-org/supreme-modeltx` → `nvidia-inception-deck/founder-talking-points.md`
 - `orkinosai25-org/supreme-modeltx` → `docs/pitch/project-ebru-investor-brief-tr.md`
