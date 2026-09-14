@@ -75,6 +75,9 @@
 
 ## Kaynaklar
 
+- Bu taslaktaki Orkinos AI, Ebru ve Supreme ModelTX metinleri; 2026-09-14 tarihinde gözden
+  geçirilen dış kaynak materyallerinden türetilmiş, CV kullanımına uygun olacak şekilde
+  temkinli biçimde yeniden ifade edilmiştir.
 - Dış kaynak depo revizyonu: `orkinosai25-org/supreme-modeltx@9876eb69bc97db154348337229e27b753d48b5d6`
 - Orkinos AI'nin aşamalı şirket anlatısı, Ebru/Supreme ModelTX ilişkisi:
   `https://github.com/orkinosai25-org/supreme-modeltx/blob/9876eb69bc97db154348337229e27b753d48b5d6/nvidia-inception-deck/deck.md`
