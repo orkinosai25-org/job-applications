@@ -49,8 +49,8 @@
 - Depoda belgelenen mevcut teknik kapsam; tokenizer iş akışı, manifest tabanlı veri hattı,
   checkpoint kaydetme/devam etme, doğrulama kaybı ve perplexity raporlaması ile checkpoint
   tabanlı inference bileşenlerini içermektedir.
-- Mevcut durum için üretim olgunluğu iddiası yerine, erken aşama ancak repo-backed ve ölçülebilir
-  teknik ilerleme vurgusu kullanılmalıdır.
+- Mevcut durum için üretim olgunluğu iddiası yerine, erken aşama ancak depoda kanıtı bulunan ve
+  ölçülebilir teknik ilerleme vurgusu kullanılmalıdır.
 
 ### Orkinos AI Kurucu Rolü
 
