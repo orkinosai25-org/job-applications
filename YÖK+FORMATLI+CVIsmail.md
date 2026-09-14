@@ -76,8 +76,8 @@
 ## Kaynaklar
 
 - Dış kaynak depo revizyonu: `orkinosai25-org/supreme-modeltx@9876eb69bc97db154348337229e27b753d48b5d6`
-- Bu revizyondaki kaynak dosya: `nvidia-inception-deck/deck.md`
-- Bu revizyondaki kaynak dosya: `nvidia-inception-deck/founder-talking-points.md`
-- Bu revizyondaki kaynak dosya: `docs/pitch/project-ebru-investor-brief-tr.md`
-- Bu revizyondaki kaynak dosya: `docs/pitch/project-ebru-pitch-deck-tr.md`
-- Bu revizyondaki kaynak dosya: `docs/website/overview.md`
+- `https://github.com/orkinosai25-org/supreme-modeltx/blob/9876eb69bc97db154348337229e27b753d48b5d6/nvidia-inception-deck/deck.md`
+- `https://github.com/orkinosai25-org/supreme-modeltx/blob/9876eb69bc97db154348337229e27b753d48b5d6/nvidia-inception-deck/founder-talking-points.md`
+- `https://github.com/orkinosai25-org/supreme-modeltx/blob/9876eb69bc97db154348337229e27b753d48b5d6/docs/pitch/project-ebru-investor-brief-tr.md`
+- `https://github.com/orkinosai25-org/supreme-modeltx/blob/9876eb69bc97db154348337229e27b753d48b5d6/docs/pitch/project-ebru-pitch-deck-tr.md`
+- `https://github.com/orkinosai25-org/supreme-modeltx/blob/9876eb69bc97db154348337229e27b753d48b5d6/docs/website/overview.md`
