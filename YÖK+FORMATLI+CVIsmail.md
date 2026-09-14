@@ -11,14 +11,14 @@
   çalışan girişimci ve araştırmacı.
 - Orkinos AI kurucusu olarak, özel/kurumsal kullanım senaryolarına uygun Türkçe öncelikli AI
   ürünleri ile daha uzun vadeli egemen model altyapısı yaklaşımını birlikte geliştirmektedir.
-- Akademik tarafta İstanbul Arel Üniversitesi'nde **Yardımcı Doçent / Doktor Öğretim Üyesi**
-  olarak görev yapmıştır.
+- Akademik tarafta İstanbul Arel Üniversitesi'nde **Yardımcı Doçent (bugünkü karşılığı:
+  Doktor Öğretim Üyesi)** olarak görev yapmıştır.
 
 ## Akademik ve Mesleki Deneyim İçin Eklenecek/Revize Edilecek Kayıtlar
 
 ### İstanbul Arel Üniversitesi
 
-- **Yardımcı Doçent / Doktor Öğretim Üyesi**
+- **Yardımcı Doçent (bugünkü karşılığı: Doktor Öğretim Üyesi)**
 - Önceki CV'de yer alan tarih, bölüm ve fakülte bilgileri korunarak bu unvan açık biçimde
   gösterilmelidir.
 
@@ -68,7 +68,8 @@
   tablo yapısı ve tarih alanları korunarak bu taslaktaki maddeler ilgili bölümlere
   taşınmalıdır.
 - İstanbul Arel Üniversitesi kaydı için eski CV'deki tarih ve birim bilgisi aynen korunmalı;
-  yalnızca unvan görünürlüğü **Yardımcı Doçent / Doktor Öğretim Üyesi** şeklinde netleştirilmelidir.
+  yalnızca unvan görünürlüğü **Yardımcı Doçent (bugünkü karşılığı: Doktor Öğretim Üyesi)**
+  şeklinde netleştirilmelidir.
 - Orkinos AI, Ebru ve Supreme ModelTX maddeleri; "iş deneyimi", "projeler", "araştırma/girişim"
   veya benzeri mevcut YÖK CV bölümlerine en uygun şekilde yerleştirilmelidir.
 
